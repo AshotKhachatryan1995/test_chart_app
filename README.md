@@ -3,7 +3,7 @@ Test Chart Project
 
 This project created in flutter using BLoC and Provider. Chart supports both Android and IOS, clone the  branches mentioned below:
 
-https://github.com/AshotKhachatryan1995/test_chart_app/master (stable channel)
+https://github.com/AshotKhachatryan1995/test_chart_app/main (stable channel)
 
 Getting Started
 The Chart Project contains two screens. First screen contains chart data, users list, transactions. 
@@ -30,7 +30,7 @@ flutter packages pub run build_runner watch
 Hide Generated Files
 In-order to hide generated files, navigate to Android Studio -> Preferences -> Editor -> File Types and paste the below lines under ignore files and folders section:
 
-*.inject.summary;*.inject.dart;*.g.dart;
+*.g.dart;
 In Visual Studio Code, navigate to Preferences -> Settings and search for Files:Exclude. Add the following patterns:
 
 **/*.g.dart 
