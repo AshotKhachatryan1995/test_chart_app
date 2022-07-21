@@ -39,19 +39,30 @@ Folder Structure
 Here is the core folder structure which flutter provides.
 
 flutter-app/
+
 |- android
+
 |- build
+
 |- ios
+
 |- lib
+
 |- test
 Here is the folder structure we have been using in this project
 
 lib/
+
 |- constants/
+
 |- middleware/
+
 |- shared/
+
 |- main.dart
+
 |- home.dart
+
 |- saved_cards_screen.dart
 
 Now, lets dive into the lib folder which has the main code for the application.
