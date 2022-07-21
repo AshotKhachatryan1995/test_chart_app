@@ -53,19 +53,29 @@ Here is the folder structure we have been using in this project
 
 lib/
 |- constants/
+
 |- middleware/
+
 |- shared/
+
 |- main.dart
+
 |- home.dart
+
 |- saved_cards_screen.dart
 
 Now, lets dive into the lib folder which has the main code for the application.
 
 1- constants - All the application level constants are defined in this directory with-in their respective files. This directory contains the constants for `theme`, `colors`.
+
 2- middleware - Contains repositories, blocs, notifiers, models.
+
 3- shared - Contains all shared widgets in the app. 
+
 4- main.dart - This is the starting point of the application. The application routes configurations are defined in this file.
+
 5- home.dart - This is a first screen of our Charts Project. 
+
 6- saved_cards_screen.dart - This is a second screen of our Charts Project. 
  
 
