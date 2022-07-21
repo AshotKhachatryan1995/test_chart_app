@@ -1,4 +1,6 @@
 Test Chart Project
+
+
 This project created in flutter using BLoC and Provider. Chart supports both Android and IOS, clone the  branches mentioned below:
 
 https://github.com/AshotKhachatryan1995/test_chart_app/master (stable channel)
